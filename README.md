@@ -1,2 +1,3 @@
 # First_repository
-this is my first repository
+This is my First Repository
+Author-Priyanka Sutar
