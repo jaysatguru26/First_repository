@@ -4,8 +4,9 @@ var accountPassward ="212121"
     accountCity ="pune"
    let accountState;
 
-console.table([Name,accountEmail,accountPassward,accountCity,accountState])node .devcontainer/01_basics/01_variables;
+console.table([Name,accountEmail,accountPassward,accountCity,accountState])
 
+Name = "jay"
 accountEmail ="jay9890@hc.com"
 accountPassward ="0000121"
     accountCity ="Mumbai"
