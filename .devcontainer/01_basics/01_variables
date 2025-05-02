@@ -1,0 +1,13 @@
+const Name = "jay"
+let accountEmail ="pry9890@hc.com"
+var accountPassward ="212121"
+    accountCity ="pune"
+   let accountState;
+
+console.table([Name,accountEmail,accountPassward,accountCity,accountState])node .devcontainer/01_basics/01_variables;
+
+accountEmail ="jay9890@hc.com"
+accountPassward ="0000121"
+    accountCity ="Mumbai"
+    console.table([accountEmail,accountPassward,accountCity]);
+    /*prefer not to use var becuase of issue of global scope*/
