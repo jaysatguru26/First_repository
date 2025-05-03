@@ -1,0 +1,23 @@
+console.log("jay satguru")
+Primitive data types=
+strings
+let FullName="satguru";
+numbers
+let Mobile number="9890955697"
+null
+let temperature=null;
+undefined
+let age;
+Bigint
+symbol
+
+non primitive data types
+object=
+student={
+    Name:jay;
+    age:22;
+    Ispass:false;
+}
+
+
+
